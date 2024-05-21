@@ -89,7 +89,7 @@ The notebooks and samples in this folder focus on using the **Vertex AI SDK for 
       <a href="grounding/"><code>grounding/</code></a>
     </td>
     <td>
-        Learn how to use the <a href="https://cloud.google.com/vertex-ai/docs/generative-ai/grounding/ground-language-models">grounding</a> feature of Gemini
+        Learn how to use the <a href="https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/ground-gemini">grounding</a> feature of Gemini
     </td>
     <td><a href="grounding/">Sample notebooks</a></td>
   </tr>
@@ -106,20 +106,47 @@ The notebooks and samples in this folder focus on using the **Vertex AI SDK for 
     <td>
       <img src="https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/build/default/40px.svg" alt="build">
       <br>
-      <a href="../setup-env/"><code>setup-env/</code></a>
+      <a href="reasoning-engine/"><code>reasoning-engine/</code></a>
     </td>
-    <td>Instructions on how to set up Google Cloud, the Vertex AI Python SDK, and notebook environments on Google Colab and Vertex AI Workbench.</td>
-    <td><a href="../setup-env">Setup instructions</a></td>
+    <td>
+        Discover how to utilize the reasoning engine capabilities in Gemini
+    </td>
+    <td><a href="reasoning-engine/">Sample notebooks</a></td>
   </tr>
   <tr>
     <td>
       <img src="https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/media_link/default/40px.svg" alt="media_link">
       <br>
-      <a href="../RESOURCES.md"><code>RESOURCES.md</code></a>
+      <a href="prompts/"><code>prompts/</code></a>
     </td>
-    <td>Learning resources (e.g. blogs, YouTube playlists) about Generative AI on Google Cloud</td>
-    <td><a href="../RESOURCES.md">Resources (e.g. videos, blogposts, learning paths)</a></td>
+    <td>Learn how to create and use effective prompts with Gemini.</td>
+    <td><a href="prompts/">Sample notebooks</a></td>
   </tr>
-
+  <tr>
+    <td>
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/question_answer/default/40px.svg" alt="question_answer">
+      <br>
+      <a href="qa-ops/"><code>qa-ops/</code></a>
+    </td>
+    <td>Learn about the question-answer operations available in Gemini</td>
+    <td><a href="qa-ops/">Sample notebooks</a></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/tune/default/40px.svg" alt="tune">
+      <br>
+      <a href="tuning/"><code>tuning/</code></a>
+    </td>
+    <td>Learn how to tune and customize the Gemini models for specific use-cases.</td>
+    <td><a href="tuning/">Sample notebooks</a></td>
+  </tr>
 </table>
 <!-- markdownlint-enable MD033 -->
+
+## Contributing
+
+We welcome contributions to enhance and improve this repository. Please refer to the [CONTRIBUTING.md](../CONTRIBUTING.md) file for guidelines on how to contribute.
+
+## License
+
+This repository is licensed under the [Apache License 2.0](../LICENSE). See the LICENSE file for more information.
